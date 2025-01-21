@@ -1,1 +1,2 @@
 # Bus-Tracking-System
+A bus-tracking system utilizing MongoDB, React, and JavaScript enables real-time monitoring of bus locations, providing users with up-to-date information on bus positions and estimated arrival times. The system's backend, built with Node.js and Express, manages data storage and retrieval in MongoDB, while the frontend, developed using React, offers an interactive user interface for seamless tracking.
